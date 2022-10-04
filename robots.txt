@@ -1,2 +1,4 @@
+# robots.txt generated at http://tool.chinaz.com/robots/ 
 User-agent: *
-Allow: /
+Disallow: 
+Sitemap: https://www.myqqx.asia/sitemap.xml
